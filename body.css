@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, sans-serif; /* Семейство шрифтов */
+    font-size: 16px; /* Размер шрифта */
+    line-height: 1.6; /* Высота строки для улучшения читаемости */
+    margin: 0;
+    padding: 0;
+}
+
+/* Стили для тега header */
+header {
+    background-color: #4CAF50; /* Зеленый фон */
+    color: white; /* Белый текст */
+    padding: 20px; /* Отступы вокруг содержимого */
+    text-align: center; /* Выравнивание текста по центру */
+}
+
+/* Стили для тега nav */
+nav {
+    background-color: #333; /* Темный фон */
+    color: white; /* Белый текст */
+    padding: 10px; /* Отступы внутри навигации */
+    text-align: center; /* Выравнивание текста по центру */
+}
+
+/* Стили для тега main */
+main {
+    background-color: #f4f4f4; /* Светлый фон */
+    font-size: 18px; /* Размер шрифта */
+    padding: 20px; /* Отступы */
+}
+
+/* Стили для тега footer */
+footer {
+    background-color: #333; /* Темный фон */
+    color: white; /* Белый текст */
+    padding: 10px; /* Отступы */
+    text-align: center; /* Выравнивание текста по центру */
+}
+
+/* Стили для элементов списка li */
+li {
+    display: inline-block; /* Важное изменение: отображение в строку */
+    width: 30%; /* Устанавливаем ширину каждого элемента списка */
+    margin: 10px; /* Отступы между элементами */
+}
+
+/* Стили для заголовка h1 */
+h1 {
+    text-align: center; /* Выравнивание по центру */
+    font-family: 'Courier New', Courier, monospace; /* Шрифт */
+    color: #333; /* Цвет текста */
+}
+
+/* Стили для параграфов p */
+p {
+    line-height: 1.8; /* Высота строки */
+    margin-bottom: 20px; /* Отступ снизу */
+}
